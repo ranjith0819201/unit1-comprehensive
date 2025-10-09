@@ -41,3 +41,18 @@ print(f'type: {type(1)}')
 -
 |DEF| 80 |
 -
+
+# Student Management System
+
+## Description
+A simple version-controlled project to manage student records — including adding, updating, and viewing student data.  
+This project demonstrates the use of Git and Markdown formatting in documentation.
+
+---
+
+## Installation
+To set up the project on your local machine:
+
+```bash
+git clone https://github.com/your-username/student-management-system.git
+cd student-management-system
